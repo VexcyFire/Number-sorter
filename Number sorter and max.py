@@ -1,3 +1,4 @@
+##Input your numbers that you need a max for in the file catagory or put numbers you need sorted into file2 and run the script
 class number():
    file = []
    max = max(file)
